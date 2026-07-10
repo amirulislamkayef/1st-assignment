@@ -1,0 +1,1 @@
+i build a website using html and css basic as a beginner the project name developer conference i build navigation bar hero section footer section and some other section but i just want to add one section more.. so build a Sponsors Section and give me the html and css beginner level code for that section.
