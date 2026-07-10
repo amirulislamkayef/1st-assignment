@@ -19,7 +19,7 @@ img{
 .common-button:hover{
     background-color: rgb(153, 153, 251);
 }
-/* nabbar style */
+/* navbar style */
 nav{
     display: flex;
     justify-content: space-between;
@@ -54,3 +54,36 @@ ul{
 .button-2{
     margin-top: 300px;
 }
+/* navabar end*/
+
+/* meet the speaker secton style*/
+.meet-the-speaker-box{
+    display: grid;
+    grid-template-columns: repeat(2,3fr);
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.speaker-box{
+    justify-content: space-between;
+    border: .5px solid #4d4c4c;
+    padding: 25px;
+    border-radius: 15px;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+.meet-the-speaker-parent h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.meet-the-speaker-box h6{
+    color: blue;
+}
+.meet-the-speaker-box h5{
+    color: #4d4c4c;
+    font-size: 13px;
+    font-weight: normal;
+}
+/* meet the speaker secton style end*/
